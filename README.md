@@ -20,17 +20,17 @@ Initialize B.E.N.
 </script>
 ```
 
-Use the `add()` method to add the modal to the DOM (but not display it).
-Use the `show()` method to display the modal (and add it to the DOM if necessary).
-Use the `remove()` method to remove the modal from the DOM.
-Use the `hide()` method to hide the modal (but keep it in the DOM).
-Use the `setContent('new content')` method to change the content without reloading the modal.
+- Use the `add()` method to add the modal to the DOM (but not display it).
+- Use the `show()` method to display the modal (and add it to the DOM if necessary).
+- Use the `remove()` method to remove the modal from the DOM.
+- Use the `hide()` method to hide the modal (but keep it in the DOM).
+- Use the `setContent('new content')` method to change the content without reloading the modal.
 
 ## Styling
 
-The overlay can be stylize by modifying the `.modal__overlay` class.
-The modal can be stylize by modifying the `.modal__box` class.
-The content can be stylize by modifying the `.modal__content` class.
+- The overlay can be stylize by modifying the `.modal__overlay` class.
+- The modal can be stylize by modifying the `.modal__box` class.
+- The content can be stylize by modifying the `.modal__content` class.
 
 ## License
 This script is published under the [MIT license](./LICENSE)
